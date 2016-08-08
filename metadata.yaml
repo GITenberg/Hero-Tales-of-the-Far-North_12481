@@ -1,0 +1,32 @@
+_repo: Hero-Tales-of-the-Far-North_12481
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Riis, Jacob A. (Jacob August)
+    alias: Riis, Jacob August
+    birthdate: 1849
+    deathdate: 1914
+    gutenberg_agent_id: '1960'
+    url: http://www.gutenberg.org/2009/agents/1960
+    wikipedia: http://en.wikipedia.org/wiki/Jacob_Riis
+description: ''
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12481'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DL'
+- !lcsh 'Scandinavia -- History'
+- GITenberg
+tableOfContents: A knight errant of the sea [Tordenskjold] -- Hans Egede, the apostle
+  to Greenland -- Gustav Vasa, the father of Sweden -- Absalon, warrior bishop of
+  the North -- King Valdemar, and the story of the Dannebrog -- How the ghost of the
+  heath was laid -- King Christian IV -- Gustav Adolf, the snow-king -- King and sailor,
+  heroes of Copenhagen -- The trooper who won a war alone [Jens Kofoed] -- Carl Linné,
+  king of the flowers -- Niels Finsen, the wolfslayer.
+title: Hero Tales of the Far North
+url: http://www.gutenberg.org/ebooks/12481
