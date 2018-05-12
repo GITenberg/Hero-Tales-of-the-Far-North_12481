@@ -1,5 +1,8 @@
 _repo: Hero-Tales-of-the-Far-North_12481
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Riis, Jacob A. (Jacob August)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1960
     wikipedia: http://en.wikipedia.org/wiki/Jacob_Riis
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12481#Hero-Tales-of-the-Far-North
 gutenberg_issued: '2004-05-01'
 gutenberg_type: Text
 identifiers:
